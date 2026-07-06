@@ -1,6 +1,6 @@
 # odin-recipes
-Will be a breif introduction describing the current project and what skills that are demonstrated in it.
 
-Don't look at student solutions! YET.
+This project was created while following the 'Odin Project' curriculum and is an attempt to showcase a growing base of knowledge surrounding web dev. 
 
-Assignment Details
+The project will primarily be HTML, CSS, JS. As it stands the project only includes html and a teeny tiny bit of css.
+
